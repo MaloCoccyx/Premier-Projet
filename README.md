@@ -7,7 +7,8 @@ Mon Premier Projet Git me sert d'entrainement à la pratique de git dans le cadr
 # Fichiers
 
 **index.html** Contient le code html
-** style.css** Contient le style css associé au code html
+**style.css** Contient le style css associé au code html
+**img/ *** Contient les images pour le slider
 
 ## Fariqué avec
 
