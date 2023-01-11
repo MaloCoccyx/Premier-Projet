@@ -6,8 +6,11 @@ Mon Premier Projet Git me sert d'entrainement à la pratique de git dans le cadr
 
 # Fichiers
 
-**index.html** Contient le code html
-**style.css** Contient le style css associé au code html
+"**index.html**" 
+* Contient le code html
+
+"**style/style.css**" 
+* Contient le style css associé à **index.html**
 
 ## Fariqué avec
 
